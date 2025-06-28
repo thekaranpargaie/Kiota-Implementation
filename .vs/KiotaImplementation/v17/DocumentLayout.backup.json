@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\KiotaImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|d:\\myprojects\\kiotaimplementation\\consumerservice\\consumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\consumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|d:\\myprojects\\kiotaimplementation\\consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|d:\\myprojects\\kiotaimplementation\\consumerservice\\controllers\\consumeusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\controllers\\consumeusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F2AAEB-5058-44FE-8153-EB3B611E7D52}|UserService\\UserService.csproj|d:\\myprojects\\kiotaimplementation\\userservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F2AAEB-5058-44FE-8153-EB3B611E7D52}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771CF4CA-34B7-4F6F-96BB-B2D690374C37}|docker-compose.dcproj|d:\\myprojects\\kiotaimplementation\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{771CF4CA-34B7-4F6F-96BB-B2D690374C37}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|d:\\myprojects\\kiotaimplementation\\consumerservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F2AAEB-5058-44FE-8153-EB3B611E7D52}|UserService\\UserService.csproj|d:\\myprojects\\kiotaimplementation\\userservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F2AAEB-5058-44FE-8153-EB3B611E7D52}|UserService\\UserService.csproj|solutionrelative:userservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|d:\\myprojects\\kiotaimplementation\\consumerservice\\userservicesdk\\user\\userrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\userservicesdk\\user\\userrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|d:\\myprojects\\kiotaimplementation\\consumerservice\\userservicesdk\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001E065-DB3E-456B-8BC4-56ECDE5D211D}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\userservicesdk\\userserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\UserService\\Dockerfile",
+              "RelativeDocumentMoniker": "UserService\\Dockerfile",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\UserService\\Dockerfile",
+              "RelativeToolTip": "UserService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T12:47:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsumerService\\Dockerfile",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\Dockerfile",
+              "RelativeToolTip": "ConsumerService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T12:47:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-26T12:46:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRequestBuilder.cs",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\UserServiceSdk\\User\\UserRequestBuilder.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\UserServiceSdk\\User\\UserRequestBuilder.cs",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\UserServiceSdk\\User\\UserRequestBuilder.cs",
+              "RelativeToolTip": "ConsumerService\\UserServiceSdk\\User\\UserRequestBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:40:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumerService",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\ConsumerService.csproj",
+              "RelativeDocumentMoniker": "ConsumerService\\ConsumerService.csproj",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\ConsumerService.csproj",
+              "RelativeToolTip": "ConsumerService\\ConsumerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T12:39:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\Program.cs",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\Program.cs",
+              "RelativeToolTip": "ConsumerService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:39:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserServiceClient.cs",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\UserServiceSdk\\UserServiceClient.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\UserServiceSdk\\UserServiceClient.cs",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\UserServiceSdk\\UserServiceClient.cs",
+              "RelativeToolTip": "ConsumerService\\UserServiceSdk\\UserServiceClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:38:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumeUserController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\Controllers\\ConsumeUserController.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\Controllers\\ConsumeUserController.cs",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\ConsumerService\\Controllers\\ConsumeUserController.cs",
+              "RelativeToolTip": "ConsumerService\\Controllers\\ConsumeUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:23:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\KiotaImplementation\\UserService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\MyProjects\\KiotaImplementation\\UserService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:22:08.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
